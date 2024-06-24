@@ -1,0 +1,21 @@
+#signform{
+  max-width: 500px;
+  min-width: 800px;
+  max-height: 1000px;
+  width: 30%;
+  height: 60%;
+  margin: 100px auto;
+  background-color: #FFFFFF;
+  border-radius: 25px;
+}
+
+  .input-maargin{
+    display:flex;
+    margin: 3px;
+    width: 100px;
+  }
+
+  .col-md-3{
+    text-align: left;
+      margin-left: 35%;
+  }
